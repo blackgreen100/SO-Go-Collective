@@ -1,0 +1,3 @@
+Downloads data about recommended answers in the Stack Overflow Go Collective and outputs it to a CSV file.
+
+The answers are divided between those posted by Recognized Members or Employees (but not necessarily recommended) and those posted by regular users and recommended by the Collective.
